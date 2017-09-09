@@ -1,1 +1,0 @@
-functions.d: ../functions.c
